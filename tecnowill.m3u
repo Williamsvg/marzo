@@ -1,0 +1,473 @@
+#EXTM3U
+
+#EXTINF:-1,LISTA GRATIS X www.tecnowill.xyz
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+#EXTINF:-1, Consigue mas Listas en www.willytv.wordpress.com
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+
+#EXTINF:-1, hbo2 dual (eng esp) www.tecnowill.xyz
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.tecnowill.xyz
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+ 
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2 www.tecnowill.xyz
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+ 
+#EXTINF:-1,CARTOON NETWORK www.tecnowill.xyz
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,CANAL 4
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="ARGENTINA",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wwq64s.jpg" group-title="ARGENTINA",Radio del Aire 89.5 FM La Plata
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8?fluxustv.m3u8
+
+
+
+
+#EXTINF:-1,ATVHD www.tecnowill.xyz
+http://85.132.81.184:8080/atv/index.m3u8
+ 
+#EXTINF:-1,Sky www.tecnowill.xyz
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+
+ 
+#EXTINF:-1,MAXPRIME www.tecnowill.xyz
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+ 
+#EXTINF:-1,UNIVERSALCH www.tecnowill.xyz
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+ 
+#EXTINF:-1, fox premium comedy (eng) www.listaiptv.org
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+ 
+#EXTINF:-1, ESPN 2 www.tecnowill.xyz
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+ 
+#EXTINF:-1, Animal Planet www.tecnowill.xyz
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+ 
+#EXTINF:-1 tvg-id="I237.58625.schedulesdirect.org" tvg-logo="http://glamorouspaper.com/wp-content/uploads/2015/01/1280px-Bravo_TV.svg1_-e1421734684867.png" group-title="USA TV",BRAVO
+http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+ 
+#EXTINF:-1 tvg-id="I210.10091.schedulesdirect.org" tvg-logo="https://pbs.twimg.com/profile_images/468743413148307456/pPQ4QTwi.jpeg" group-title="USA TV",CBC CANADA
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.catchuk.org/wp-content/uploads/2016/07/Catch-Finals-FULL-COLOUR.png" group-title="USA TV",CATCH 2
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://stluciatimes.com/wp-content/uploads/2015/11/Flow_Sports_logo-770x470.jpg" group-title="USA TV",FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+ 
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/logo_cnn_nav_bottom.png" group-title="USA",CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1,CBS www.tecnowill.xyz
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+ 
+#EXTINF:-1,NBC www.tecnowill.xyz
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+ 
+#EXTINF:-1,HBO 2 International  www.tecnowill.xyz
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,TELE RED www.tecnowill.xyz
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+ 
+#EXTINF:-1,PYC TELEVISIÓN www.tecnowill.xyz
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+ 
+#EXTINF:-1,TELEVER www.tecnowill.xyz
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1,EFEKTO TV www.tecnowill.xyz
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+ 
+#EXTINF:-1,CANAL 10 CHETUMAL www.tecnowill.xyz
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ 
+#EXTINF:-1,MILENIO TV www.tecnowill.xyz
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+ 
+#EXTINF:-1,DW ESP www.tecnowill.xyz
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+
+#EXTINF:-1,PIGUINO TV HD www.tecnowill.xyz
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+ 
+#EXTINF:-1,TELEMAX ARG www.tecnowill.xyz
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+ 
+#EXTINF:-1,TELEPIN HD www.tecnowill.xyz
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,TV COSMOS PERU www.tecnowill.xyz
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+#EXTINF:-1,CANAL VASCO ESP www.tecnowill.xyz
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,EXTREMA TV www.tecnowill.xyz
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TVE ASTRA SD 2.sp" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="TVE ASTRA SD 2.sp" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+
+#EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1 tvg-id="A3 ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+#EXTINF:-1 tvg-id="C4 ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro www.tecnowill.xyz
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="C4 ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro HD www.tecnowill.xyz
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="T5 ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco www.tecnowill.xyz
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="T5 ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco HD www.tecnowill.xyz
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="SEXTA ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/geolasexta/master.m3u8
+#EXTINF:-1 tvg-id="NEOX ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/neox/master.m3u8
+#EXTINF:-1 tvg-id="NEOX ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/geoneox/master.m3u8
+#EXTINF:-1 tvg-id="NOVA ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/antenanova/picture?width=320&height=320" group-title="Generalistas",Nova HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/nova/master.m3u8
+#EXTINF:-1 tvg-id="NOVA ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/antenanova/picture?width=320&height=320" group-title="Generalistas",Nova HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/geonova/master.m3u8
+#EXTINF:-1 tvg-id="MEGA TDT SD 1.sp" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD www.tecnowill.xyz
+https://livestartover.atresmedia.com/mega/master.m3u8
+#EXTINF:-1 tvg-id="MEGA TDT SD 1.sp" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD
+https://livestartover.atresmedia.com/geomega/master.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/RedBull/picture?width=320&height=320" group-title="Deportivos",Redbull TV HD www.tecnowill.xyz
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="BOING ASTRA SD 1.sp" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320" group-title="Infantiles",Boing www.tecnowill.xyz
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="BOING ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320" group-title="Infantiles",Boing HD www.tecnowill.xyz
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/hittv.es/picture?width=320&height=320" group-title="Musicales",Hit TV HD www.tecnowill.xyz
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+
+
+#EXTINF:-1,RETRO MUCIC TV www.tecnowill.xyz
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+ 
+#EXTINF:-1,RETRO MUSIC TV www.tecnowill.xyz
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+ 
+#EXTINF:-1,SON POPULAR www.tecnowill.xyz
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1,DEPORTES:MLB Network www.tecnowill.xyz
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+ 
+#EXTINF:-1,DEPORTES:SKY News www.tecnowill.xyz
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1,DEPORTES:Dubai Sports www.tecnowill.xyz
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+ 
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ 
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+ 
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+ 
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+ 
+#EXTINF:-1,INFANTILES:Trailer Tv Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Trailer Tv
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
+
+#EXTINF:-1,MODA:HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+ 
+#EXTINF:-1,CULTURA:NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1,CULTURA:NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1,NOTICIAS:CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,NOTICIAS:Efekto TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+ 
+#EXTINF:-1,NOTICIAS:DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+ 
+#EXTINF:-1,NOTICIAS:CGTN 2
+http://live.cgtn.com/cctv-e.m3u8
+ 
+#EXTINF:-1,NOTICIAS:CNN Turkia
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+ 
+#EXTINF:-1,LATINOS:Canal Trece
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+ 
+#EXTINF:-1,LATINOS:Super 5
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
+#EXTINF:-1,CHILE:Tv Senado 1 HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+ 
+#EXTINF:-1,CHILE:Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LHn9ofg.png" group-title="CHILE",Contivision Constitucion
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://radioytvchile.com/wp-content/uploads/2017/11/WsluQPH.png" group-title="CHILE",Desierto TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif" group-title="CHILE",Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JNHFaNP.png" group-title="CHILE",Radio Polar
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.soberaniaradio.cl/site/images/logo2016.png" group-title="CHILE",Soberania TV
+http://evo.eltelon.com:1935/live/soberania/chunklist_w1320335487.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pe9zky9.jpg" group-title="CHILE",TecTV (Opt-1)
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pe9zky9.jpg" group-title="CHILE",TecTV (Opt-2)
+http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmaule.cl/1.png" group-title="CHILE",TV Maule
+https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/02/logo.jpg" group-title="CHILE",TVR
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,ARGENTINA:Canal 26 1 www.tecnowill.xyz
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal 26 2 www.tecnowill.xyz
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
+ 
+chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal 26 3 www.tecnowill.xyz
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
+ 
+chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:TLX www.tecnowill.xyz
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+ 
+chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal 2 Telpin Tv www.tecnowill.xyz
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Litus Tv
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+ 
+#EXTINF:-1,COLOMBIA:Canal Capital HD
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-
+ 
+e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
+ 
+#EXTINF:-1,COLOMBIA:Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1,PERU:Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1,MEXICO:Efekto Tv HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MEXICO:Efekto Tv SD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MEXICO:Tlaxcala Television
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+ 
+#EXTINF:-1,MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:VTV HD
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:Pandero Music
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
+ 
+#EXTINF:-1,MUSICA:Pandero Music Chile
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+ 
+#EXTINF:-1,MUSICA:Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1,MUSICA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+ 
+#EXTINF:-1,MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:MC Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ 
+#EXTINF:-1,MUSICA:Xite
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+ 
+#EXTINF:-1,MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+ 
+#EXTINF:-1,MUSICA:Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1,Videomix:SheepMix
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+ 
+#EXTINF:-1,Videomix:Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+ 
+#EXTINF:-1,Videomix:Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+ 
+#EXTINF:-1,Videomix:Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+ 
+#EXTINF:-1,Videomix:Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+ 
+#EXTINF:-1,Videomix:Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+ 
+#EXTINF:-1,-RECITALES-
+https://ia601509.us.archive.org/18/items/Fredniza17concert1/fredniza17.mp4
+ 
+#EXTINF:-1,RADIOTV:Radio Futuro Tv
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,RADIOTV:Radio Zero Tv
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+
+
+ 
+#EXTINF:-1,RADIOTV:Radio Polar Tv
+http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,RADIOTV:Power HD Argentina
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,LOGOS TV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+ 
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,DJING
+http://www.djing.com/tv/ibiza.m3u8
+ 
+#EXTINF:-1,M2OTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:-1,tvg-logo="52r9Jrf.jpg" group-title="Canales Italianos" Sky TG24 | SD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8 
+
+#EXTINF:-1,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+ 
+#EXTINF:-1,TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+ 
+#EXTINF:-1,TELEMICRO
+http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO
+ 
+#EXTINF:-1,Telemicro Canal 5*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+ 
+ 
+ 
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+ 
+#EXTINF:-1,TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1,TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+ 
+#EXTINF:-1,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+ 
+#EXTINF:-1,Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+ 
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+ 
+#EXTINF:-1,The Travel Channel
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+ 
+#EXTINF:-1,The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+ 
+#EXTINF:-1,Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+ 
+#EXTINF:-1,Throwback
+http://i.imgur.com/BTiGp2B.png?tecnotv",Throwback
+
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+ 
+#EXTINF:-1,TLX HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
+ 
+#EXTINF:-1,TLX TV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
+ 
+ 
+#EXTINF:-1,Tochka TV (Opt-1)
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+
+
+
